@@ -1,0 +1,133 @@
+[Root]
+Most Recent Package=SISTEMA CONSULTORIO
+
+
+[Package|SISTEMA CONSULTORIO|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\CD CONSULTORIO
+
+[Package|SISTEMA CONSULTORIO|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SISTEMA CONSULTORIO|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SISTEMA CONSULTORIO|Files Found]
+
+[Package|SISTEMA CONSULTORIO|Files Released]
+
+[Package|SISTEMA CONSULTORIO|Missing Dependency Information]
+
+[Package|SISTEMA CONSULTORIO|Out-of-Date Dependency Information]
+
+[Package|SISTEMA CONSULTORIO|Files Added]
+C:\clinica\EMPRESA.txt=
+C:\clinica\CLINICA.mdb=
+
+[Package|SISTEMA CONSULTORIO|Files Removed]
+
+[Package|SISTEMA CONSULTORIO|Files In Project]
+C:\clinica\clinica.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\RCHTXES.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDES.DLL=Yes
+C:\WINDOWS\system32\LVbuttons.ocx=Yes
+C:\WINDOWS\system32\Msmask32.ocx=Yes
+C:\WINDOWS\system32\MSMSKES.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTES.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\clinica\EMPRESA.txt=Yes
+C:\clinica\CLINICA.mdb=Yes
+
+[Package|SISTEMA CONSULTORIO|Configure Registry Files]
+Applicable=No
+
+[Package|SISTEMA CONSULTORIO|Configure Remote Servers]
+Applicable=No
+
+[Package|SISTEMA CONSULTORIO|Install Locations]
+C:\clinica\clinica.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RCHTXES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\LVbuttons.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\clinica\EMPRESA.txt=$(AppPath)
+C:\clinica\CLINICA.mdb=$(AppPath)
+
+[Package|SISTEMA CONSULTORIO|Configure Shared Files]
+Applicable=Yes
+C:\clinica\clinica.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\clinica\EMPRESA.txt=No
+C:\clinica\CLINICA.mdb=No
+
+[Package|SISTEMA CONSULTORIO|Distribution]
+Type=single
+Size=
+Title=SISTEMA CONSULTORIO
+
+[Package|SISTEMA CONSULTORIO|IconGroups]
+Group0=SISTEMA CONSULTORIO
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|SISTEMA CONSULTORIO|SISTEMA CONSULTORIO]
+Icon1=clinica.exe
+Title1=SISTEMA CONSULTORIO
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|SISTEMA CONSULTORIO|Package]
+PackageFolder=C:\CD CONSULTORIO
+ProjectFolder=C:\clinica
+ServerSideCab=
+File1=C:\CD CONSULTORIO\setup.exe
+File2=C:\CD CONSULTORIO\Setup.Lst
+File3=C:\CD CONSULTORIO\clinica.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
